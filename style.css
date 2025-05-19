@@ -4,7 +4,18 @@ font-size: 30px;
 
 text-align: center;
 
-color: #de7471
+color: #6448b1
+
+}
+
+
+h2{
+
+font-size: 30px;
+
+text-align: center;
+
+color: #6448b1
 
 }
 
@@ -22,6 +33,24 @@ font-family: Helvetica, sans-serif;
 
 body {
 
-background-color: #007471;
+background-color: #d1d149;
+
+}
+
+
+main {
+
+background-color: #dc9c1c;
+
+}
+
+
+footer{
+
+font-size: 20px;
+
+text-align: center;
+
+color: #6448b1
 
 }
